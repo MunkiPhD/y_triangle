@@ -1,0 +1,9 @@
+C:\development\yodle\YodleTriangle\bin\Debug\YodleTriangle.exe
+C:\development\yodle\YodleTriangle\bin\Debug\YodleTriangle.pdb
+C:\development\yodle\YodleTriangle\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\development\yodle\YodleTriangle\obj\x86\Debug\YodleTriangle.YodleTriangle.resources
+C:\development\yodle\YodleTriangle\obj\x86\Debug\YodleTriangle.Properties.Resources.resources
+C:\development\yodle\YodleTriangle\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\development\yodle\YodleTriangle\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\development\yodle\YodleTriangle\obj\x86\Debug\YodleTriangle.exe
+C:\development\yodle\YodleTriangle\obj\x86\Debug\YodleTriangle.pdb
